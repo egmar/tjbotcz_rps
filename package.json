@@ -1,0 +1,27 @@
+{
+  "name": "rps_game",
+  "description": "TJBot Czech Version with Rock Paper Scissors Game",
+  "version": "0.0.1",
+  "author": {
+    "name": "tjbotcz",
+    "email": "tjbotcz@gmail.com"
+  },
+  "dependencies": {
+    "tjbotczlib": "latest"
+  },
+  "main": "rps_game.js",
+  "homepage": "https://github.com/tjbotcz/tjbotcz_rps",
+  "keywords": [
+    "tjbotcz",
+    "tjbot",
+    "rps_game"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjbotcz/tjbotcz_rps"
+  },
+  "scripts": {
+    "start": "node rsp_game.js"
+  }
+}

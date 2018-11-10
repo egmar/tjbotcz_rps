@@ -1,6 +1,6 @@
 # TJBotCZ R-P-S Game
 
-TJBot program playing Rock-Paper-Scissors in a fun way. On top of the TJBotCZ kit you will need:
+TJBot program playing Rock-Paper-Scissors in a fun way. This program is coded in Node.js for TJBotCZ and is based on _TJBot CZ - Lite_ program.On top of the TJBotCZ kit you will need:
 
 * real rock, sheet of paper, real scissors
 * [LCD Display](https://arduino-shop.cz/arduino/1570-iic-i2c-display-lcd-1602-16x2-znaku-lcd-modul-modry-1487765909.html) so that you can see TJBot's choice
@@ -15,6 +15,11 @@ _Note: TJBot's name is Michael, unless you change it in config.js file. So when 
 4. TJBot uses object detection to classify the object you have shown him, asks for confirmation if his classification is correct and then announces the winner of the game.
 
 ![rps-teaser](https://raw.githubusercontent.com/tjbotcz/manuals/master/images/rps-teaser.jpg)
+
+TJBot guides you through the game step by step, the conversation is predefined, but can be easily adjusted to your own needs.
+To create your own conversation dialogs we recommend to visit this tutorial:
+
+[How to build a chatbot](https://cognitiveclass.ai/courses/how-to-build-a-chatbot/)
 
 ### Hardware setup
 

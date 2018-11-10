@@ -3,7 +3,7 @@
 TJBot program playing Rock-Paper-Scissors in a fun way. On top of the TJBotCZ kit you will need:
 
 * real rock, sheet of paper, real scissors
-* LCD Display so that you can see TJBot's choice
+* [LCD Display](https://arduino-shop.cz/arduino/1570-iic-i2c-display-lcd-1602-16x2-znaku-lcd-modul-modry-1487765909.html) so that you can see TJBot's choice
 
 ### How it works?
 
